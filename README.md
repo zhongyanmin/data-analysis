@@ -7,3 +7,4 @@
 - Housing in Mexico (https://www.kaggle.com/datasets/allankirwa/mexico-city-real-estate-dataset)
 - Air Quality in Nairobi (https://www.kaggle.com/datasets/pexpeter/air-quality-in-nairobi/data)
 - Earthquake Damage in Nepal (https://www.kaggle.com/datasets/sanskarnegi/nepal-earthquake-2015)
+- Bankruptcy in Poland (https://www.kaggle.com/datasets/stealthtechnologies/predict-bankruptcy-in-poland)
