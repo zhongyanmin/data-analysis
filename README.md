@@ -8,3 +8,4 @@
 - Air Quality in Nairobi (https://www.kaggle.com/datasets/pexpeter/air-quality-in-nairobi/data)
 - Earthquake Damage in Nepal (https://www.kaggle.com/datasets/sanskarnegi/nepal-earthquake-2015)
 - Bankruptcy in Poland (https://www.kaggle.com/datasets/stealthtechnologies/predict-bankruptcy-in-poland)
+- Survey of Consumer Finances (https://www.federalreserve.gov/econres/scfindex.htm)
