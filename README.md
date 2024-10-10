@@ -3,7 +3,6 @@
 - New York City Airbnb (https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data?rvi=1)
 - Bike Sharing Demand (https://www.kaggle.com/competitions/bike-sharing-demand/data)
 - Hotel Booking Demand (https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
-- Credit Card Fraud Detection (https://www.kaggle.com/datasets/mishra5001/credit-card?datasetId=263888&sortBy=voteCount&select=application_data.csv)
 - Housing in Mexico (https://www.kaggle.com/datasets/allankirwa/mexico-city-real-estate-dataset)
 - Air Quality in Nairobi (https://www.kaggle.com/datasets/pexpeter/air-quality-in-nairobi/data)
 - Earthquake Damage in Nepal (https://www.kaggle.com/datasets/sanskarnegi/nepal-earthquake-2015)
