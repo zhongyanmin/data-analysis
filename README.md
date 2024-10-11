@@ -8,3 +8,4 @@
 - Earthquake Damage in Nepal (https://www.kaggle.com/datasets/sanskarnegi/nepal-earthquake-2015)
 - Bankruptcy in Poland (https://www.kaggle.com/datasets/stealthtechnologies/predict-bankruptcy-in-poland)
 - Survey of Consumer Finances (https://www.federalreserve.gov/econres/scfindex.htm)
+- Credit Card Fraud Detection (https://www.kaggle.com/datasets/mishra5001/credit-card?datasetId=263888&sortBy=voteCount&select=application_data.csv)
